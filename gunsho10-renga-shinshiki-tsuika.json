@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/renga-shinshiki-tsuika",
  "yomi": "れんがしんしきついかならびにしんしきこんあんとう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連歌式目",
+  "era": "文亀元年（1501）6月",
+  "author": "肖柏（編）",
+  "desc": "応安新式以後の追加条目や今案、近年の用捨を一冊にまとめた連歌の式目。輪廻・本歌・韻字などの去り嫌いを定める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -115,6 +120,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
